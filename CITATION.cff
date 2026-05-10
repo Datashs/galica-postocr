@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Gallica Post-OCR Pipeline"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: "Rygiel"
+    given-names: "Philippe"
+    affiliation: "Equipe Semis, Inria"
+    orcid: "https://orcid.org/0000-0002-5308-8961"
+
+repository-code: "https://github.com/Datashs/galica-postocr"
+license: "MIT"
+version: "1.0"
+date-released: "2026-05-10"
+
+keywords:
+  - OCR
+  - digital history
+  - Gallica
+  - text normalization
+  - historical corpora
+
+abstract: >
+  Rule-based post-OCR normalization pipeline for nineteenth-century French historical corpora from Gallica.
