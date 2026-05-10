@@ -1,5 +1,8 @@
 # Post-OCR Pipeline for Historical Gallica Corpora
 
+[DOI: 10.5281/zenodo.20112806](https://doi.org/10.5281/zenodo.20112806)
+
+
 Post-OCR normalisation pipeline for 19th-century French historical corpora from Gallica.  
 Developed on the *Annuaire de l'Institut de droit international* (1877), generalisable to any similar OCR corpus.  
 Designed for reproducible processing of historical corpora, with explicit philological control and built-in human validation.

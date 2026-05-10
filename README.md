@@ -1,5 +1,7 @@
 # Pipeline post-OCR pour corpus historiques Gallica
 
+[DOI: 10.5281/zenodo.20112806](https://doi.org/10.5281/zenodo.20112806)
+
 Pipeline de normalisation post-OCR pour corpus historiques français du XIXe siècle issus de Gallica.  
 Développé sur l'*Annuaire de l'Institut de droit international* (1877), généralisable à tout corpus OCR similaire.  
 Conçu pour le traitement reproductible des corpus historiques, avec contrôle philologique explicite et validation humaine intégrée.
