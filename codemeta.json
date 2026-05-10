@@ -1,0 +1,61 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "PostOCR",
+  "description": "Pipeline de normalisation post-OCR pour corpus historiques français du XIXe siècle issus de Gallica, conçu pour le traitement reproductible des corpus historiques avec contrôle philologique explicite et validation humaine intégrée.",
+  "identifier": "https://doi.org/10.5281/zenodo.20112806",
+  "codeRepository": "https://github.com/Datashs/galica-postocr",
+  "url": "https://github.com/Datashs/galica-postocr",
+  "license": "https://opensource.org/licenses/MIT",
+  "programmingLanguage": [
+    "Python"
+  ],
+  "runtimePlatform": "Python 3.8+",
+  "applicationCategory": "Digital Humanities",
+  "keywords": [
+    "digital humanities",
+    "OCR",
+    "post-OCR",
+    "historical OCR",
+    "OCR correction",
+    "computational philology",
+    "historical texts",
+    "Gallica",
+    "BnF",
+    "text processing",
+    "research software",
+    "corpus analysis",
+    "French language",
+    "philology",
+    "reproducible research"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Philippe",
+      "familyName": "Rygiel"
+    }
+  ],
+  "publisher": {
+    "@type": "Equipe semis, Inria",
+    "name": "GitHub"
+  },
+  "developmentStatus": "active",
+  "operatingSystem": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "softwareRequirements": [
+    "Python >= 3.8",
+    "langid (optional)"
+  ],
+  "isAccessibleForFree": true,
+  "funding": "",
+  "version": "1.0",
+  "datePublished": "2026",
+  "inLanguage": [
+    "fr",
+    "en"
+  ]
+}
