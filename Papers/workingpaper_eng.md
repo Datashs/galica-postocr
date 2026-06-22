@@ -12,6 +12,9 @@ AI" in June 2026*\
 Pipeline available at: <https://github.com/Datashs/galica-postocr>\
 Archived version: <https://doi.org/10.5281/zenodo.20112806>
 
+This project is part of a broader programme of experimentation intended to support the writing of a forthcoming overview article for Le Mouvement Social, provisionally entitled “History through the Lens of Artificial Intelligence: What Large Language Models Do to Historical Practice.” Related outputs produced within the same research programme are also available on Zenodo: Philippe Rygiel, Navigating Academia (2026, DOI: 10.5281/zenodo.20783423) and Philippe Rygiel, Augmenting Historians (2026, DOI 10.5281/zenodo.20122308.). 
+
+
 ## Abstract
 
 This article describes an OCR post-correction pipeline developed for

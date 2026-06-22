@@ -9,6 +9,8 @@ ORCID: 0000-0002-5308-8961
 Pipeline disponible à : <https://github.com/Datashs/galica-postocr>  
 Version archivée : <https://doi.org/10.5281/zenodo.20112806>
 
+Ce projet s’inscrit dans une série d’expérimentations destinée à nourrir l’écriture d’un texte de synthèse à paraître pour le Mouvement Social (“L’histoire au révélateur de l’intelligence artificielle. Ce que les grands modèles de langue font aux pratiques historiennes”) à paraître. Les autres éléments développés à l’occasion de ce chantier sont également disponibles sur Github : Rygiel, Philippe. Navigating Academia. Zenodo, 2026. 10.5281/zenodo.20783423. et Rygiel, Philippe. 2026. Augmenting Historians, 10.5281/zenodo.20122308. 
+
 ---
 
 ## Résumé
